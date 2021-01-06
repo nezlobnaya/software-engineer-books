@@ -5,7 +5,7 @@ A list of popular books on algorithms and programming
 
 |  Book | Link
 |:-------------:|:--------------------:|
-|Algorithms 4th Edition by Robert Sedgewick, Kevin Wayne,Princeton, 2011| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf)
+&#x202b|Algorithms 4th Edition by Robert Sedgewick, Kevin Wayne,Princeton, 2011| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf)
 |Algorithms by Vazirani and Dasgupta, 2006| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Algorithms%20by%20Vazirani%20and%20Dasgupta.pdf)
 |Algorithm Design by Jon Kleinberg, Eva Tardos,Cornell, 2005| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf)
 |Elementary Algorithms by Larry LIU Xinyu, 2014| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Elementary%20Algorithms.pdf)

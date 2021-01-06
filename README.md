@@ -1,6 +1,7 @@
 # software-engineer-books
 
 A list of popular books on algorithms and programming
+README is being updated- check the repo for the full list
 
 
 |  Book | Link

@@ -2,6 +2,7 @@
 
 A list of popular books on algorithms and programming
 
+<p align="center">
 |  Book | Link
 |:-------------:|:--------------------:|
 |Algorithms 4th Edition by Robert Sedgewick, Kevin Wayne,Princeton, 2011| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf)
@@ -12,4 +13,5 @@ A list of popular books on algorithms and programming
 |Introduction to Algorithms - 3rd Edition,by Thomas Cormen,Leiserson,Rivest, Stein, 2009| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
 |Grokking Algorithms by Aditya Y. Bhargava, 2016| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Grokking%20Algorithms.pdf)
 |Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions by Gayle McDowell, 2015| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf)
+</p>
 

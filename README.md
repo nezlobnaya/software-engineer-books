@@ -17,6 +17,7 @@ README is being updated- check the repo for the full list
 |Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions by Gayle McDowell, 2015| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf)
 |The Tech Resume Inside Out Impacted by COVID Edition 1.0 by Gergely Orosz, 2020| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/The%20Tech%20Resume%20Inside%20Out%20Impacted%20by%20COVID%20Edition%201.0.pdf)
 |The-Standout-Developer, July-7-2020-1 by Randall Kanna| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/The%20Standout%20Developer-randall-kanna.pdf)
+|Neural Networks from Scratch in Python| [Link](https://github.com/nezlobnaya/software-engineer-books/blob/main/kinsley_harrison_kukiela_daniel_neural_networks_from_scratch.pdf)
 
 
 
